@@ -50,6 +50,8 @@ echo "vless://${UUID}@81.12.32.136:443?encryption=none&security=tls&type=ws&sni=
 echo "vless://${UUID}@46.38.137.156:443?encryption=none&security=tls&type=ws&sni=${SNI}&path=%2F#@Mey2Ray"
 echo "vless://${UUID}@45.89.221.111:443?encryption=none&security=tls&type=ws&sni=${SNI}&path=%2F#@Mey2Ray"
 echo "vless://${UUID}@131.214.250.94:443?encryption=none&security=tls&type=ws&sni=${SNI}&path=%2F#@Mey2Ray"
+echo "vless://${UUID}@85.198.12.209:443?encryption=none&security=tls&type=ws&sni=${SNI}&path=%2F#@Mey2Ray"
+echo "vless://${UUID}@85.9.112.219:443?encryption=none&security=tls&type=ws&sni=${SNI}&path=%2F#@Mey2Ray"
 echo ""
 echo "========================================"
 echo ""
